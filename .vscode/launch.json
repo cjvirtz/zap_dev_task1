@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoginForm2",
+            "request": "launch",
+            "mainClass": "LoginForm2",
+            "projectName": "zap_dev_task1_a76d30d7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "zap_dev_task1_a76d30d7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataRetrieverServer",
+            "request": "launch",
+            "mainClass": "DataRetrieverServer",
+            "projectName": "zap_dev_task1_a76d30d7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoginForm",
+            "request": "launch",
+            "mainClass": "LoginForm",
+            "projectName": "zap_dev_task1_a76d30d7"
+        }
+    ]
+}
